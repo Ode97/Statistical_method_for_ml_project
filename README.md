@@ -17,4 +17,3 @@ Il codice contiene il download del dataset da kaggle, ma è necessario registrar
 
 Infine aprire il file cross_val_experiment.ipynb e premere il tasto Kernel e selezionare Restart e Run All
 
-
