@@ -1,19 +1,22 @@
-# Progetto di Statistical Methods for Machine Learning
+# Statistical Methods for Machine Learning project.
 
-Analisi del rischio di 4 reti neurali con diversi iperparametri sul dataset Muffin vs chihuahua di Kaggle con 5 fold cross validation
+Risk analysis of 4 neural networks with different hyperparameters on Kaggle's Muffin vs. Chihuahua dataset with 5 fold cross validation
 
-Spostati nella cartella del progetto e segui i seguenti passaggi.
-Crea l'ambiente con Anaconda (versione 23.9.0) utilizzando il file .yml fornito:
-```conda env create -f environment.yml```
+Python version required: 3.10.12
 
-Attiva l'ambiente:
-```conda activate smfmlproject```
+Move to the project folder and follow the following steps.
 
-Accedi a Jupyter notebook:
-```jupyter notebook```
+Create the environment with Anaconda (version 23.9.0) using the .yml file provided:
+``conda env create -f environment.yml``.
+
+Activate the environment:
+```conda activate smfmlproject``.
+
+Access Jupyter notebook:
+``jupyter notebook``.
 
 
-Il codice contiene il download del dataset da kaggle, ma è necessario registrarsi su Kaggle, scaricare poi il token dalla pagina Settings, e infine mettererlo nella cartella ~\.kaggle
+The code contains the download of the dataset from kaggle, but you need to register on Kaggle, then download the token from the Settings page, and finally put it in the ~ \.kaggle folder
 
-Infine aprire il file cross_val_experiment.ipynb e premere il tasto Kernel e selezionare Restart e Run All
+Finally open the file cross_val_experiment.ipynb and press the Kernel key and select Restart and Run All
 
