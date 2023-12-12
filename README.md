@@ -4,7 +4,7 @@ Risk analysis of 4 neural networks with different hyperparameters on Kaggle's Mu
 
 Python version required: 3.10.12
 
-Move to the project folder and follow the following steps.
+After cloning the repo, move to the project folder and follow the following steps.
 
 Create the environment with Anaconda (version 23.9.0) using the .yml file provided:
 ```conda env create -f environment.yml```.
